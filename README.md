@@ -1,4 +1,6 @@
-# MobileMamba
+<p align="center">
+  <img src="assets/mobilemamba_logo.png" width="600px" />
+</p>
 
 --- 
 Official PyTorch implementation of "[**MobileMamba: Lightweight Multi-Receptive Visual Mamba Network**](https://arxiv.org/pdf/2411.15941)".
